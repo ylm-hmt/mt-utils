@@ -1,0 +1,23 @@
+{
+  "name": "mt-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylm-hmt/mt-utils.git"
+  },
+  "author": "ylm-hmt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ylm-hmt/mt-utils/issues"
+  },
+  "homepage": "https://github.com/ylm-hmt/mt-utils#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "number-precision": "^1.3.2"
+  }
+}
