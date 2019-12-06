@@ -12,5 +12,5 @@ npm i @ylm_hmt/mt-utils --save-dev
 ```
  ### 使用
 ``` bash
-import { number } from '@ylm_hmt/mt-utils'
+import { NP } from '@ylm_hmt/mt-utils'
 ```
